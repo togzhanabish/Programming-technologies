@@ -1,0 +1,6 @@
+c:\users\dok\documents\visual studio 2015\Projects\primeminimum\primeminimum\bin\Debug\primeminimum.exe.config
+C:\Users\dok\documents\visual studio 2015\Projects\primeminimum\primeminimum\bin\Debug\primeminimum.exe
+C:\Users\dok\documents\visual studio 2015\Projects\primeminimum\primeminimum\bin\Debug\primeminimum.pdb
+C:\Users\dok\documents\visual studio 2015\Projects\primeminimum\primeminimum\obj\Debug\primeminimum.csprojResolveAssemblyReference.cache
+C:\Users\dok\documents\visual studio 2015\Projects\primeminimum\primeminimum\obj\Debug\primeminimum.exe
+C:\Users\dok\documents\visual studio 2015\Projects\primeminimum\primeminimum\obj\Debug\primeminimum.pdb

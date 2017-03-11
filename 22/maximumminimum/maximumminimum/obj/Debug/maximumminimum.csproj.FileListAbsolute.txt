@@ -1,0 +1,6 @@
+c:\users\dok\documents\visual studio 2015\Projects\maximumminimum\maximumminimum\bin\Debug\maximumminimum.exe.config
+c:\users\dok\documents\visual studio 2015\Projects\maximumminimum\maximumminimum\bin\Debug\maximumminimum.exe
+c:\users\dok\documents\visual studio 2015\Projects\maximumminimum\maximumminimum\bin\Debug\maximumminimum.pdb
+c:\users\dok\documents\visual studio 2015\Projects\maximumminimum\maximumminimum\obj\Debug\maximumminimum.csprojResolveAssemblyReference.cache
+c:\users\dok\documents\visual studio 2015\Projects\maximumminimum\maximumminimum\obj\Debug\maximumminimum.exe
+c:\users\dok\documents\visual studio 2015\Projects\maximumminimum\maximumminimum\obj\Debug\maximumminimum.pdb
